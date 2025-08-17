@@ -9,14 +9,18 @@ This is the frontend of the WikiBot App made using Swift and SwiftUI. It is chat
 ## 🖌️ App Style
 
 <b>App View</b>
-<div style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-bottom: 20px;">
-    <img width="50%" src="./Assets/Minimized-Sidebar.png">
-    <img width="50%" src="./Assets/Answer.png">
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 20px;">
-    <img width="50%" src="./Assets/Loading.png">
-    <img width="50%" src="./Assets/Minimized-with-Answer.png">
+<div style="
+  display: grid; 
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 12px; 
+  justify-items: center; 
+  align-items: center; 
+  margin: 20px 0;
+">
+  <img width="100%" src="./Assets/Minimized-Sidebar.png">
+  <img width="100%" src="./Assets/Answer.png">
+  <img width="100%" src="./Assets/Loading.png">
+  <img width="100%" src="./Assets/Minimized-with-Answer.png">
 </div>
 
 ## 🗒️ Features
