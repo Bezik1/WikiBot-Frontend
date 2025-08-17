@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center; gap: 8px;">
-  <img src="./Assets/icon.png" width="30" height="30">
-  <b style="font-size: 28px;">WikiBot App Frontend</b>
-</div>
+
+# <img src="./Assets/icon.png" width="30" height="30"> WikiBot App Frontend
+
 
 ![WikiBot Dashboard](assets/dashboard.jpg)
 
