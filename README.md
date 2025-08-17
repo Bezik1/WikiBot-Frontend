@@ -2,7 +2,7 @@
 # <img src="./Assets/icon.png" width="30" height="30"> WikiBot App Frontend
 
 
-![WikiBot Dashboard](assets/dashboard.jpg)
+![WikiBot Dashboard](Assets/dashboard.jpg)
 
 ## 💡 Overview
 This is the frontend of the WikiBot App made using Swift and SwiftUI. It is chatbot that allows user to get informations about the data from WikiQA dataset.
