@@ -45,6 +45,11 @@
 			path = "WikiBot AppUITests";
 			sourceTree = "<group>";
 		};
+		6C65386C2E5085B90009F990 /* Assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Assets;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +84,7 @@
 				6C65379B2E4E7C270009F990 /* WikiBot AppTests */,
 				6C6537A52E4E7C270009F990 /* WikiBot AppUITests */,
 				6C65378B2E4E7C260009F990 /* Products */,
+				6C65386C2E5085B90009F990 /* Assets */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				6C65378C2E4E7C260009F990 /* WikiBot App */,
+				6C65386C2E5085B90009F990 /* Assets */,
 			);
 			name = "WikiBot App";
 			packageProductDependencies = (
