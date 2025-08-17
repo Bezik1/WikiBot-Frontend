@@ -1,7 +1,9 @@
 <div style="display: flex; align-items: center; gap: 8px;">
   <img src="./Assets/icon.png" width="30" height="30">
-  <b style="font-size: 24px;">WikiBot App Frontend</b>
+  <b style="font-size: 28px;">WikiBot App Frontend</b>
 </div>
+
+![WikiBot Dashboard](assets/dashboard.jpg)
 
 ## 💡 Overview
 This is the frontend of the WikiBot App made using Swift and SwiftUI. It is chatbot that allows user to get informations about the data from WikiQA dataset.
